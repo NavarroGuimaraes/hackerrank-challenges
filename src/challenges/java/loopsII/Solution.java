@@ -1,4 +1,4 @@
-package javaLoopsII;
+package challenges.java.loopsII;
 
 import java.util.Scanner;
 
