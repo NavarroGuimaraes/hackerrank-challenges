@@ -1,0 +1,1 @@
+check the challenge in: https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true
