@@ -1,0 +1,8 @@
+https://www.hackerrank.com/challenges/duplicate-word/problem?isFullScreen=true
+
+This one I'm going to be honest. I had no idea how to make this. I'm not a good "regex developer", so i asked for help.
+
+"Who did you ask for help?"
+
+guess who...
+the glorious, the legendary, chatgpt.
